@@ -1,6 +1,6 @@
 hello git! by wonder wall!
 hello git! by hot-fix
-hello git!
+hello git! test hot-fix
 hello git!
 hello git!
 hello git!
